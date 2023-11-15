@@ -1,2 +1,2 @@
 # MTH4000
-programming in python
+currently learning how to code in python
